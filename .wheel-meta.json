@@ -1,0 +1,22 @@
+{
+  "wheel_id": 674,
+  "structure": "umbrella",
+  "slug": "homeloanbrokernearme-com-104",
+  "project": "home-loan-brokers-brisbane-timeline-2edb5c5dd8fb701bc4bf267b38b",
+  "parent_t1_ref": "homeloanbrokernearme-com-151",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokernearme.com.au",
+  "primary_kw": "home loan brokers brisbane timeline",
+  "intended_url": "https://sitesau.github.io/homeloanbrokernearme-com-104/",
+  "tier": "T2",
+  "writeback_nonce": "14244e902b5017b9",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/home-loan-brokers-brisbane-questions-to-ask-f9512bc3a9cdc975cad/",
+      "anchor": "Home Loan Brokers Brisbane Questions to Ask: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
